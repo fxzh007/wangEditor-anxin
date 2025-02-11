@@ -3,7 +3,7 @@
  * @author cycleccc
  */
 
-import { SlateElement } from '@wangeditor-next/editor'
+import { SlateElement } from '@wangeditor-ax/editor'
 
 import { ImageElement } from './custom-types'
 

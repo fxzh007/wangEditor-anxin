@@ -3,13 +3,14 @@
  * @author wangfupeng
  */
 
-import { IModuleConf } from '@wangeditor-next/core'
+import { IModuleConf } from '@wangeditor-ax/core'
 
 import { imageToHtmlConf } from './elem-to-html'
 import {
   deleteImageMenuConf,
   editImageMenuConf,
-  EditorImageSizeMenuConf,
+  // EditorImageSizeMenuConf,
+  imageWidth20MenuConf,
   imageWidth30MenuConf,
   imageWidth50MenuConf,
   imageWidth100MenuConf,
@@ -29,10 +30,11 @@ const image: Partial<IModuleConf> = {
     deleteImageMenuConf,
     editImageMenuConf,
     viewImageLinkMenuConf,
+    imageWidth20MenuConf,
     imageWidth30MenuConf,
     imageWidth50MenuConf,
     imageWidth100MenuConf,
-    EditorImageSizeMenuConf,
+    // EditorImageSizeMenuConf,
   ],
   editorPlugin: withImage,
 }

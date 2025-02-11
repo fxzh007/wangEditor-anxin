@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { DomEditor, IDomEditor } from '@wangeditor-next/editor'
+import { DomEditor, IDomEditor } from '@wangeditor-ax/editor'
 
 import { IExtendConfig } from './interface'
 

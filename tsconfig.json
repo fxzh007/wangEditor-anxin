@@ -22,7 +22,7 @@
     "allowJs": true,
     "baseUrl": ".",
     "paths": {
-      "@wangeditor-next/*": [
+      "@wangeditor-ax/*": [
         "packages/*/src",
         "packages/*/dist"
       ]

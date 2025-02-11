@@ -1,4 +1,4 @@
-import { IButtonMenu, IDomEditor, t } from '@wangeditor-next/core'
+import { IButtonMenu, IDomEditor, t } from '@wangeditor-ax/core'
 import {
   Editor, Node, Path, Transforms,
 } from 'slate'

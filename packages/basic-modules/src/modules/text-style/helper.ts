@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { DomEditor, IDomEditor } from '@wangeditor-next/core'
+import { DomEditor, IDomEditor } from '@wangeditor-ax/core'
 import { Editor, Node } from 'slate'
 
 export function isMenuDisabled(editor: IDomEditor, _mark?: string): boolean {

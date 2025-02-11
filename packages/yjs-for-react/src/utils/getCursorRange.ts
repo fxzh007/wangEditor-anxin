@@ -1,4 +1,4 @@
-import { CursorEditor, CursorState, relativeRangeToSlateRange } from '@wangeditor-next/yjs'
+import { CursorEditor, CursorState, relativeRangeToSlateRange } from '@wangeditor-ax/yjs'
 import { BaseRange, Descendant, Range } from 'slate'
 
 const CHILDREN_TO_CURSOR_STATE_TO_RANGE: WeakMap<

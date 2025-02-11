@@ -5,34 +5,34 @@
 ![jest badge](https://img.shields.io/badge/unit%20test-jest-yellowgreen)
 
 ## 介绍
-基于[wangEditor-next](https://wangeditor-next.github.io/docs/) 封装的React组件。
+基于[wangeditor-ax](https://wangeditor-ax.github.io/docs/) 封装的React组件。
 
 ## 安装
 
 1. 安装组件包
 
 ```shell
-yarn add @wangeditor-next/editor-for-react
-# 或者npm install @wangeditor-next/editor-for-react --save
+yarn add @wangeditor-ax/editor-for-react
+# 或者npm install @wangeditor-ax/editor-for-react --save
 
 ```
 
 2. 安装核心包
 
 ```shell
-yarn add @wangeditor-next/editor
+yarn add @wangeditor-ax/editor
 
-# 或者 npm install @wangeditor-next/editor --save
+# 或者 npm install @wangeditor-ax/editor --save
 ```
 3. 导入组件
 
 ```ts
-import { Editor, Toolbar } from '@wangeditor-next/editor-for-react'
+import { Editor, Toolbar } from '@wangeditor-ax/editor-for-react'
 ```
 
 ## 使用
 
-详情参考[wangEditor react使用文档](https://wangeditor-next.github.io/docs/guide/for-frame#react)。
+详情参考[wangEditor react使用文档](https://wangeditor-ax.github.io/docs/guide/for-frame#react)。
 
 ### 在Next.js下使用
 ```js

@@ -3587,13 +3587,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wangeditor-next/basic-modules@npm:^1.5.2":
+"@wangeditor-ax/basic-modules@npm:^1.5.2":
   version: 1.5.2
-  resolution: "@wangeditor-next/basic-modules@npm:1.5.2"
+  resolution: "@wangeditor-ax/basic-modules@npm:1.5.2"
   dependencies:
     is-url: "npm:^1.2.4"
   peerDependencies:
-    "@wangeditor-next/core": 1.x
+    "@wangeditor-ax/core": 1.x
     dom7: ^3.0.0
     lodash.throttle: ^4.1.1
     nanoid: ^5.0.0
@@ -3603,13 +3603,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wangeditor-next/code-highlight@npm:^1.3.0":
+"@wangeditor-ax/code-highlight@npm:^1.3.0":
   version: 1.3.0
-  resolution: "@wangeditor-next/code-highlight@npm:1.3.0"
+  resolution: "@wangeditor-ax/code-highlight@npm:1.3.0"
   dependencies:
     prismjs: "npm:^1.23.0"
   peerDependencies:
-    "@wangeditor-next/core": 1.x
+    "@wangeditor-ax/core": 1.x
     dom7: ^3.0.0
     slate: ^0.72.0
     snabbdom: ^3.1.0
@@ -3617,9 +3617,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wangeditor-next/core@npm:^1.7.3":
+"@wangeditor-ax/core@npm:^1.7.3":
   version: 1.7.3
-  resolution: "@wangeditor-next/core@npm:1.7.3"
+  resolution: "@wangeditor-ax/core@npm:1.7.3"
   dependencies:
     "@types/event-emitter": "npm:^0.3.3"
     event-emitter: "npm:^0.3.5"
@@ -3646,31 +3646,31 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wangeditor-next/editor-for-react@npm:^1.0.2":
+"@wangeditor-ax/editor-for-react@npm:^1.0.2":
   version: 1.0.8
-  resolution: "@wangeditor-next/editor-for-react@npm:1.0.8"
+  resolution: "@wangeditor-ax/editor-for-react@npm:1.0.8"
   peerDependencies:
-    "@wangeditor-next/core": ">=1.5.5"
-    "@wangeditor-next/editor": ">=5.3.12"
+    "@wangeditor-ax/core": ">=1.5.5"
+    "@wangeditor-ax/editor": ">=5.3.12"
     react: ">=17.0.2"
     react-dom: ">=17.0.2"
   checksum: 10c0/f8370ae63379a64a199750bd245e82ba5eae267108120b4f1abdccbd9ba6f20243df37d6f97cfba44a91d8dff2642738649ee21b89af5e9c5a91bbd426ebdf79
   languageName: node
   linkType: hard
 
-"@wangeditor-next/editor@npm:^5.5.0":
+"@wangeditor-ax/editor@npm:^5.5.0":
   version: 5.5.4
-  resolution: "@wangeditor-next/editor@npm:5.5.4"
+  resolution: "@wangeditor-ax/editor@npm:5.5.4"
   dependencies:
     "@uppy/core": "npm:^2.1.1"
     "@uppy/xhr-upload": "npm:^2.0.3"
-    "@wangeditor-next/basic-modules": "npm:^1.5.2"
-    "@wangeditor-next/code-highlight": "npm:^1.3.0"
-    "@wangeditor-next/core": "npm:^1.7.3"
-    "@wangeditor-next/list-module": "npm:^1.1.8"
-    "@wangeditor-next/table-module": "npm:^1.6.0"
-    "@wangeditor-next/upload-image-module": "npm:^1.1.4"
-    "@wangeditor-next/video-module": "npm:^1.3.7"
+    "@wangeditor-ax/basic-modules": "npm:^1.5.2"
+    "@wangeditor-ax/code-highlight": "npm:^1.3.0"
+    "@wangeditor-ax/core": "npm:^1.7.3"
+    "@wangeditor-ax/list-module": "npm:^1.1.8"
+    "@wangeditor-ax/table-module": "npm:^1.6.0"
+    "@wangeditor-ax/upload-image-module": "npm:^1.1.4"
+    "@wangeditor-ax/video-module": "npm:^1.3.7"
     dom7: "npm:^3.0.0"
     is-hotkey: "npm:^0.2.0"
     lodash.camelcase: "npm:^4.3.0"
@@ -3687,11 +3687,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wangeditor-next/list-module@npm:^1.1.8":
+"@wangeditor-ax/list-module@npm:^1.1.8":
   version: 1.1.8
-  resolution: "@wangeditor-next/list-module@npm:1.1.8"
+  resolution: "@wangeditor-ax/list-module@npm:1.1.8"
   peerDependencies:
-    "@wangeditor-next/core": 1.x
+    "@wangeditor-ax/core": 1.x
     dom7: ^3.0.0
     slate: ^0.72.0
     snabbdom: ^3.1.0
@@ -3699,11 +3699,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wangeditor-next/table-module@npm:^1.6.0":
+"@wangeditor-ax/table-module@npm:^1.6.0":
   version: 1.6.0
-  resolution: "@wangeditor-next/table-module@npm:1.6.0"
+  resolution: "@wangeditor-ax/table-module@npm:1.6.0"
   peerDependencies:
-    "@wangeditor-next/core": 1.x
+    "@wangeditor-ax/core": 1.x
     dom7: ^3.0.0
     lodash.debounce: ^4.0.8
     lodash.isequal: ^4.5.0
@@ -3715,14 +3715,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wangeditor-next/upload-image-module@npm:^1.1.4":
+"@wangeditor-ax/upload-image-module@npm:^1.1.4":
   version: 1.1.4
-  resolution: "@wangeditor-next/upload-image-module@npm:1.1.4"
+  resolution: "@wangeditor-ax/upload-image-module@npm:1.1.4"
   peerDependencies:
     "@uppy/core": ^2.0.3
     "@uppy/xhr-upload": ^2.0.3
-    "@wangeditor-next/basic-modules": 1.x
-    "@wangeditor-next/core": 1.x
+    "@wangeditor-ax/basic-modules": 1.x
+    "@wangeditor-ax/core": 1.x
     dom7: ^3.0.0
     lodash.foreach: ^4.5.0
     slate: ^0.72.0
@@ -3731,13 +3731,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wangeditor-next/video-module@npm:^1.3.7":
+"@wangeditor-ax/video-module@npm:^1.3.7":
   version: 1.3.7
-  resolution: "@wangeditor-next/video-module@npm:1.3.7"
+  resolution: "@wangeditor-ax/video-module@npm:1.3.7"
   peerDependencies:
     "@uppy/core": ^2.1.4
     "@uppy/xhr-upload": ^2.0.7
-    "@wangeditor-next/core": 1.x
+    "@wangeditor-ax/core": 1.x
     dom7: ^3.0.0
     nanoid: ^5.0.0
     slate: ^0.72.0
@@ -3746,9 +3746,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wangeditor-next/yjs-demo@workspace:.":
+"@wangeditor-ax/yjs-demo@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@wangeditor-next/yjs-demo@workspace:."
+  resolution: "@wangeditor-ax/yjs-demo@workspace:."
   dependencies:
     "@faker-js/faker": "npm:^7.5.0"
     "@fortawesome/fontawesome-svg-core": "npm:^1.3.0"
@@ -3759,10 +3759,10 @@ __metadata:
     "@types/react": "npm:^17.0.34"
     "@types/react-dom": "npm:^17.0.11"
     "@vitejs/plugin-react": "npm:^1.0.7"
-    "@wangeditor-next/editor": "npm:^5.5.0"
-    "@wangeditor-next/editor-for-react": "npm:^1.0.2"
-    "@wangeditor-next/yjs": "npm:0.1.1"
-    "@wangeditor-next/yjs-for-react": "npm:0.1.1-beta.1"
+    "@wangeditor-ax/editor": "npm:^5.5.0"
+    "@wangeditor-ax/editor-for-react": "npm:^1.0.2"
+    "@wangeditor-ax/yjs": "npm:0.1.1"
+    "@wangeditor-ax/yjs-for-react": "npm:0.1.1-beta.1"
     autoprefixer: "npm:^10.4.0"
     clsx: "npm:^1.1.1"
     netlify-cli: "npm:^8.6.0"
@@ -3779,16 +3779,16 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@wangeditor-next/yjs-for-react@npm:0.1.1-beta.1":
+"@wangeditor-ax/yjs-for-react@npm:0.1.1-beta.1":
   version: 0.1.1-beta.1
-  resolution: "@wangeditor-next/yjs-for-react@npm:0.1.1-beta.1"
+  resolution: "@wangeditor-ax/yjs-for-react@npm:0.1.1-beta.1"
   dependencies:
     use-sync-external-store: "npm:^1.2.0"
     y-protocols: "npm:^1.0.5"
   peerDependencies:
-    "@wangeditor-next/core": 1.x
-    "@wangeditor-next/editor": 5.x
-    "@wangeditor-next/yjs": 0.x
+    "@wangeditor-ax/core": 1.x
+    "@wangeditor-ax/editor": 5.x
+    "@wangeditor-ax/yjs": 0.x
     react: ">=16.8.0"
     slate: ^0.72.0
     yjs: ^13.5.29
@@ -3796,13 +3796,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wangeditor-next/yjs@npm:0.1.1":
+"@wangeditor-ax/yjs@npm:0.1.1":
   version: 0.1.1
-  resolution: "@wangeditor-next/yjs@npm:0.1.1"
+  resolution: "@wangeditor-ax/yjs@npm:0.1.1"
   dependencies:
     y-protocols: "npm:^1.0.5"
   peerDependencies:
-    "@wangeditor-next/core": 1.x
+    "@wangeditor-ax/core": 1.x
     slate: ^0.72.0
     yjs: ^13.5.29
   checksum: 10c0/37321e97b4bd4948b068dff349661a4ef572a22463cdb885fb6a63d8e36d4d6d9a414908922a1902346703da62a03e8eaf5e90805edfeb91250d550d116b3c67

@@ -10,7 +10,7 @@ import {
   IDomEditor,
   IModalMenu,
   t,
-} from '@wangeditor-next/core'
+} from '@wangeditor-ax/core'
 import { Node as SlateNode, Transforms } from 'slate'
 
 import $, { Dom7Array, DOMElement } from '../../utils/dom'

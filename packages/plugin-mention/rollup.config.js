@@ -1,4 +1,4 @@
-import { createRollupConfig } from '@wangeditor-next-shared/rollup-config'
+import { createRollupConfig } from '@wangeditor-ax-shared/rollup-config'
 
 import pkg from './package.json' assert { type: 'json' }
 

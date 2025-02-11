@@ -1,4 +1,4 @@
-import { CursorEditor, YHistoryEditor, YjsEditor } from '@wangeditor-next/yjs'
+import { CursorEditor, YHistoryEditor, YjsEditor } from '@wangeditor-ax/yjs'
 import { Descendant } from 'slate'
 
 export type CursorData = {

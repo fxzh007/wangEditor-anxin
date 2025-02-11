@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import * as wangEditor from '@wangeditor-next/editor'
+import * as wangEditor from '@wangeditor-ax/editor'
 import React, { useEffect, useRef } from 'react'
 
 interface IProps {

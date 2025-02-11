@@ -1,4 +1,4 @@
-# [wangEditor-next](https://wangeditor-next.github.io/docs/en/) float-image plugin
+# [wangeditor-ax](https://wangeditor-ax.github.io/docs/en/) float-image plugin
 
 [中文文档](./README.md)
 
@@ -13,7 +13,7 @@
 
 ## Introduction
 
-[wangEditor-next](https://wangeditor-next.github.io/docs/en/) float-image plugin.
+[wangeditor-ax](https://wangeditor-ax.github.io/docs/en/) float-image plugin.
 
 ![](./_img/demo-1.png)
 ![](./_img/demo-2.png)
@@ -34,7 +34,7 @@ npm i wangeditor-plugin-float-image
 ### Register to editor
 
 ```js
-import { Boot } from '@wangeditor-next/editor'
+import { Boot } from '@wangeditor-ax/editor'
 import floatImageModule from 'wangeditor-plugin-float-image'
 
 // Register
@@ -47,7 +47,7 @@ Boot.registerModule(floatImageModule)
 Editor config
 
 ```ts
-import { IEditorConfig } from '@wangeditor-next/editor'
+import { IEditorConfig } from '@wangeditor-ax/editor'
 
 const editorConfig: Partial<IEditorConfig> = {
   hoverbarKeys: {

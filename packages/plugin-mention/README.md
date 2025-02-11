@@ -4,14 +4,14 @@
 
 ## 介绍
 
-[wangeditor-next](https://github.com/cycleccc/wangEditor-next) mention 插件，如 `@张三`。
+[wangeditor-ax](https://github.com/cycleccc/wangeditor-ax) mention 插件，如 `@张三`。
 
 ![](./_img/demo.png)
 
 ## 安装
 
 ```shell
-yarn add @wangeditor-next/plugin-mention
+yarn add @wangeditor-ax/plugin-mention
 ```
 
 ## 使用
@@ -21,8 +21,8 @@ yarn add @wangeditor-next/plugin-mention
 ### 注册到编辑器
 
 ```ts
-import { IDomEditor, Boot, IEditorConfig } from '@wangeditor-next/editor'
-import mentionModule, { MentionElement } from '@wangeditor-next/plugin-mention'
+import { IDomEditor, Boot, IEditorConfig } from '@wangeditor-ax/editor'
+import mentionModule, { MentionElement } from '@wangeditor-ax/plugin-mention'
 
 // 注册。要在创建编辑器之前注册，且只能注册一次，不可重复注册。
 Boot.registerModule(mentionModule)

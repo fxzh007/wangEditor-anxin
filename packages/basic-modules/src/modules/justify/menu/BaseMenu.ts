@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { DomEditor, IButtonMenu, IDomEditor } from '@wangeditor-next/core'
+import { DomEditor, IButtonMenu, IDomEditor } from '@wangeditor-ax/core'
 import { Editor, Element, Node } from 'slate'
 
 abstract class BaseMenu implements IButtonMenu {

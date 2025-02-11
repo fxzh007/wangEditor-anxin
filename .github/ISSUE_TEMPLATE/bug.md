@@ -16,7 +16,7 @@ about: 请大家一定要按照该模板填写，以方便我们更快复现，�
 - 操作系统
 - 浏览器和版本
 
-## wangEditor-next 版本
+## wangeditor-ax 版本
 
 *请输入内容……*
 
@@ -24,11 +24,11 @@ about: 请大家一定要按照该模板填写，以方便我们更快复现，�
 
 能/不能
 
-- demo https://wangeditor-next.github.io/demo/
+- demo https://wangeditor-ax.github.io/demo/
 
 ## 在线 demo
 
-<!-- 如官网demo无法复现可使用线上沙盒复现 （推荐以下网站,wangeditor-next 现在统一使用的 stackblitz ），帮助我们最低成本复现 bug -->
+<!-- 如官网demo无法复现可使用线上沙盒复现 （推荐以下网站,wangeditor-ax 现在统一使用的 stackblitz ），帮助我们最低成本复现 bug -->
 <!-- 进入以下对应链接并fork修改，将修改后可复现的沙盒链接粘贴在此处 -->
 
 <!--

@@ -1,17 +1,17 @@
-import '@wangeditor-next/editor/dist/css/style.css'
+import '@wangeditor-ax/editor/dist/css/style.css'
 
 import {
   Boot, IDomEditor, IEditorConfig, IToolbarConfig,
-} from '@wangeditor-next/editor'
-import { Editor, Toolbar } from '@wangeditor-next/editor-for-react'
+} from '@wangeditor-ax/editor'
+import { Editor, Toolbar } from '@wangeditor-ax/editor-for-react'
 import {
   slateNodesToInsertDelta,
   withCursors,
   withYHistory,
   withYjs,
   YjsEditor,
-} from '@wangeditor-next/yjs'
-import { EditorContext } from '@wangeditor-next/yjs-for-react'
+} from '@wangeditor-ax/yjs'
+import { EditorContext } from '@wangeditor-ax/yjs-for-react'
 import React, { useEffect, useState } from 'react'
 import { Descendant } from 'slate'
 import { WebsocketProvider } from 'y-websocket'
@@ -21,7 +21,7 @@ import { randomCursorData } from '../../utils'
 import { RemoteCursorOverlay } from './Overlay'
 
 const yDoc = new Y.Doc()
-const wsProvider = new WebsocketProvider('ws://localhost:1234', 'wangeditor-next-yjs', yDoc)
+const wsProvider = new WebsocketProvider('ws://localhost:1234', 'wangeditor-ax-yjs', yDoc)
 const sharedType = yDoc.get('content', Y.XmlText)
 // console.log('🚀 ~ SimplePage ~ sharedType:', sharedType.toJSON())
 

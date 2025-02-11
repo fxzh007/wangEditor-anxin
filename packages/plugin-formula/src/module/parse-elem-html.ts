@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { IDomEditor, SlateDescendant, SlateElement } from '@wangeditor-next/editor'
+import { IDomEditor, SlateDescendant, SlateElement } from '@wangeditor-ax/editor'
 
 import { DOMElement } from '../utils/dom'
 import { FormulaElement } from './custom-types'

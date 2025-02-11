@@ -3,14 +3,14 @@ import path from 'path'
 
 // 抽取重复的模块路径
 const modulePaths = [
-  '@wangeditor-next/core',
-  '@wangeditor-next/basic-modules',
-  '@wangeditor-next/code-highlight',
-  '@wangeditor-next/editor',
-  '@wangeditor-next/list-module',
-  '@wangeditor-next/table-module',
-  '@wangeditor-next/upload-image-module',
-  '@wangeditor-next/video-module',
+  '@wangeditor-ax/core',
+  '@wangeditor-ax/basic-modules',
+  '@wangeditor-ax/code-highlight',
+  '@wangeditor-ax/editor',
+  '@wangeditor-ax/list-module',
+  '@wangeditor-ax/table-module',
+  '@wangeditor-ax/upload-image-module',
+  '@wangeditor-ax/video-module',
 ]
 
 export default defineConfig({

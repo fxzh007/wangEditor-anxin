@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { DomEditor, IDomEditor } from '@wangeditor-next/core'
+import { DomEditor, IDomEditor } from '@wangeditor-ax/core'
 import { Transforms } from 'slate'
 
 import { CustomElement } from '../../../custom-types'

@@ -5,7 +5,7 @@
 
 import {
   DomEditor, IButtonMenu, IDomEditor, t,
-} from '@wangeditor-next/core'
+} from '@wangeditor-ax/core'
 
 import { EXTERNAL_SVG } from '../../../constants/icon-svg'
 import { ImageElement } from '../custom-types'

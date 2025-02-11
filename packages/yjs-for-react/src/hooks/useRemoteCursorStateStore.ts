@@ -1,4 +1,4 @@
-import { CursorEditor, CursorState, RemoteCursorChangeEventListener } from '@wangeditor-next/yjs'
+import { CursorEditor, CursorState, RemoteCursorChangeEventListener } from '@wangeditor-ax/yjs'
 import { BaseEditor } from 'slate'
 
 import { Store } from '../types'

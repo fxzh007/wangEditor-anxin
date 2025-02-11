@@ -1,8 +1,8 @@
-# wangEditor-next Contribution Guide
+# wangeditor-ax Contribution Guide
 
 ## Welcome to Contribute
 
-Firstly, thank you for your interest in the `wangEditor-next` project and your willingness to invest time to contribute code, documentation, feature requests, or any other form of help. This contribution guide will help you understand how to participate in the project.
+Firstly, thank you for your interest in the `wangeditor-ax` project and your willingness to invest time to contribute code, documentation, feature requests, or any other form of help. This contribution guide will help you understand how to participate in the project.
 
 ### 1. Code of Conduct
 
@@ -10,7 +10,7 @@ We are committed to maintaining an open and friendly environment. Please ensure 
 
 ### 2. Reporting Issues
 
-If you find a bug or have an idea for a new feature, please create a new issue in the [issue tracker](https://github.com/wangeditor-next/wangEditor-next/issues). Before submitting, check to see if a similar issue already exists.
+If you find a bug or have an idea for a new feature, please create a new issue in the [issue tracker](https://github.com/fxzh007/wangEditor-anxin/issues). Before submitting, check to see if a similar issue already exists.
 
 ### 3. Submitting Pull Requests
 
@@ -62,4 +62,4 @@ Help answer questions, participate in discussions, or promote the project on soc
 
 ## Thanks
 
-We greatly appreciate your contributions, big or small. Your efforts help us build a better `wangEditor-next`.
+We greatly appreciate your contributions, big or small. Your efforts help us build a better `wangeditor-ax`.

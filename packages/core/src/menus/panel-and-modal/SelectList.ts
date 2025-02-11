@@ -27,7 +27,7 @@ class SelectList extends PanelAndModal {
     }
 
     this.$elem.on('click', (e: Event) => {
-      // selectList 如有滚动条，可能会点击拖拽，参考 https://github.com/wangeditor-next/wangeditor-next-v5/issues/325
+      // selectList 如有滚动条，可能会点击拖拽，参考 https://github.com/fxzh007/wangEditor-anxin-v5/issues/325
       // 此时需要阻止冒泡，因为在 $container.on('mousedown', () => editor.hidePanelOrModal()) ，$container 就是 `.w-e-text-container`
       e.stopPropagation()
     })

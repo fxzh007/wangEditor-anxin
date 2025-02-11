@@ -5,7 +5,7 @@
 
 import {
   DomEditor, IDomEditor, IOption, ISelectMenu, t,
-} from '@wangeditor-next/core'
+} from '@wangeditor-ax/core'
 import { Element, Transforms } from 'slate'
 
 import { JS_SVG } from '../../constants/svg'

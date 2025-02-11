@@ -1,18 +1,18 @@
-# wangEditor-next 5
+# wangeditor-ax 5
 
-[![codecov](https://codecov.io/gh/wangeditor-next/wangeditor-next-next/branch/master/graph/badge.svg?token=0ZSXFXJPK3)](https://codecov.io/gh/wangeditor-next/wangeditor-next-next)
-[![GitHub stars](https://img.shields.io/github/stars/wangeditor-next/wangeditor-next-next)](https://github.com/wangeditor-next/wangEditor-next/stargazers)
+[![codecov](https://codecov.io/gh/wangeditor-ax/wangeditor-ax-next/branch/master/graph/badge.svg?token=0ZSXFXJPK3)](https://codecov.io/gh/wangeditor-ax/wangeditor-ax-next)
+[![GitHub stars](https://img.shields.io/github/stars/wangeditor-ax/wangeditor-ax-next)](https://github.com/fxzh007/wangEditor-anxin/stargazers)
 
 [Chinese](./README.md)
 
 ## Introduction
 
-The original project [wangeditor-next](https://github.com/wangeditor-next/wangeditor-next) is temporarily not maintained due to the author's [personal reasons](https://juejin.cn/post/7272735633458413602). This project is a forked version that will continue to be maintained with minimal breaking changes.
+The original project [wangeditor-ax](https://github.com/fxzh007/wangEditor-anxin) is temporarily not maintained due to the author's [personal reasons](https://juejin.cn/post/7272735633458413602). This project is a forked version that will continue to be maintained with minimal breaking changes.
 
 An open-source web rich text editor that is ready to use out of the box with simple configuration. It supports JS, Vue, and React.
 
-- [Documentation](https://wangeditor-next.github.io/docs/)
-- [Demo](https://wangeditor-next.github.io/demo/)
+- [Documentation](https://wangeditor-ax.github.io/docs/)
+- [Demo](https://wangeditor-ax.github.io/demo/)
 
 ![](./docs/images/editor.png)
 
@@ -27,12 +27,12 @@ An open-source web rich text editor that is ready to use out of the box with sim
 
 ### For Vue or React
 ```shell
-npm i wangeditor-next/editor
+npm i wangeditor-ax/editor
 ```
 
 ### For HTML using CDN resources
 ```html
-<script src="https://unpkg.com/@wangeditor-next/editor@latest/dist/index.js"></script>
+<script src="https://unpkg.com/@wangeditor-ax/editor@latest/dist/index.js"></script>
 ```
 
 ## Usage Examples
@@ -51,11 +51,11 @@ Try it on StackBlitz: [React Example](https://stackblitz.com/edit/react-4osjqn)
 
 ## Communication
 
-- [Discuss issues and suggestions](https://github.com/wangeditor-next/wangEditor-next/issues)
+- [Discuss issues and suggestions](https://github.com/fxzh007/wangEditor-anxin/issues)
 
 ## Contribution
 
-We welcome contributions! Please read the [contribution guidelines](https://github.com/wangeditor-next/wangEditor-next/blob/master/docs/contribution-CN.md) and the development guide in the [docs](https://github.com/wangeditor-next/wangEditor-next/tree/master/docs) folder.
+We welcome contributions! Please read the [contribution guidelines](https://github.com/fxzh007/wangEditor-anxin/blob/master/docs/contribution-CN.md) and the development guide in the [docs](https://github.com/fxzh007/wangEditor-anxin/tree/master/docs) folder.
 
 ## 🌟 Support and Motivation
 

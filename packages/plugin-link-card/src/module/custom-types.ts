@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { SlateText } from '@wangeditor-next/editor'
+import { SlateText } from '@wangeditor-ax/editor'
 
 type EmptyText = {
   text: ''

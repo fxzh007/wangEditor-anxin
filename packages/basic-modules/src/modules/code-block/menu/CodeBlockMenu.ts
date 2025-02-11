@@ -5,7 +5,7 @@
 
 import {
   DomEditor, IButtonMenu, IDomEditor, t,
-} from '@wangeditor-next/core'
+} from '@wangeditor-ax/core'
 import {
   Editor, Element, Node, Transforms,
 } from 'slate'

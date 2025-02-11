@@ -1,4 +1,4 @@
-# @wangeditor-next/editor-for-react
+# @wangeditor-ax/editor-for-react
 
 ## 1.0.9
 

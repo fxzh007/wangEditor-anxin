@@ -5,7 +5,7 @@
 
 import {
   DomEditor, IButtonMenu, IDomEditor, t,
-} from '@wangeditor-next/core'
+} from '@wangeditor-ax/core'
 import { Transforms } from 'slate'
 
 import { TRASH_SVG } from '../../../constants/icon-svg'

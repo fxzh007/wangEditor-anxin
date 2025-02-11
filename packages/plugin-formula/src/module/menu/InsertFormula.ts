@@ -12,7 +12,7 @@ import {
   SlateNode,
   SlateRange,
   t,
-} from '@wangeditor-next/editor'
+} from '@wangeditor-ax/editor'
 
 import { SIGMA_SVG } from '../../constants/icon-svg'
 import $, { Dom7Array, DOMElement } from '../../utils/dom'

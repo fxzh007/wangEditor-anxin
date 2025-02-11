@@ -4,14 +4,14 @@
 
 ## Introduction
 
-[wangeditor-next](https://github.com/cycleccc/wangEditor-next) mention plugin, like `@James`.
+[wangeditor-ax](https://github.com/cycleccc/wangeditor-ax) mention plugin, like `@James`.
 
 ![](./_img/demo.png)
 
 ## Installation
 
 ```shell
-yarn add @wangeditor-next/plugin-mention
+yarn add @wangeditor-ax/plugin-mention
 ```
 
 ## Usage
@@ -21,8 +21,8 @@ yarn add @wangeditor-next/plugin-mention
 ### Use in editor
 
 ```ts
-import { IDomEditor, Boot, IEditorConfig } from '@wangeditor-next/editor'
-import mentionModule, { MentionElement } from '@wangeditor-next/plugin-mention'
+import { IDomEditor, Boot, IEditorConfig } from '@wangeditor-ax/editor'
+import mentionModule, { MentionElement } from '@wangeditor-ax/plugin-mention'
 
 // Register
 // You should register this before create editor, and register only once (not repeatedly).

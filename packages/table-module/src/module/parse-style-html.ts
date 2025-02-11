@@ -2,7 +2,7 @@
  * @description parse style html
  * @author hsuna
  */
-import { IDomEditor } from '@wangeditor-next/core'
+import { IDomEditor } from '@wangeditor-ax/core'
 import { Descendant } from 'slate'
 
 import $, { DOMElement, getStyleValue } from '../utils/dom'
@@ -29,7 +29,7 @@ export function parseStyleHtml(elem: DOMElement, node: Descendant, _editor: IDom
   let border = getStyleValue($elem, 'border')
 
   if (!border && elem.tagName === 'TD') {
-    // https://github.com/wangeditor-next/wangEditor-next/blob/master/packages/table-module/src/assets/index.less#L20
+    // https://github.com/fxzh007/wangEditor-anxin/blob/master/packages/table-module/src/assets/index.less#L20
     // TD存在默认的css样式，尝试用getComputedStyle获取不到，只能写死
     border = `1px solid ${DEFAULT_BORDER_COLOR}`
   }

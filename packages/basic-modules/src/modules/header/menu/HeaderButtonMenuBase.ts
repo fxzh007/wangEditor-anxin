@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { IButtonMenu, IDomEditor } from '@wangeditor-next/core'
+import { IButtonMenu, IDomEditor } from '@wangeditor-ax/core'
 
 import { getHeaderType, isMenuDisabled, setHeaderType } from '../helper'
 

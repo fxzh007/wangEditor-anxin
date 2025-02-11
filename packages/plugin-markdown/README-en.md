@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Use basic markdown syntax in [wangEditor-next](https://wangeditor-next.github.io/docs/en/).
+Use basic markdown syntax in [wangeditor-ax](https://wangeditor-ax.github.io/docs/en/).
 
 - Header
   - `#`
@@ -20,7 +20,7 @@ Use basic markdown syntax in [wangEditor-next](https://wangeditor-next.github.io
 ## Installation
 
 ```sh
-yarn add @wangeditor-next/plugin-markdown
+yarn add @wangeditor-ax/plugin-markdown
 ```
 
 ## Usage
@@ -28,8 +28,8 @@ yarn add @wangeditor-next/plugin-markdown
 You should register plugin before create editor, and register only once (not repeatedly).
 
 ```js
-import { Boot } from '@wangeditor-next/editor'
-import markdownModule from '@wangeditor-next/plugin-markdown'
+import { Boot } from '@wangeditor-ax/editor'
+import markdownModule from '@wangeditor-ax/plugin-markdown'
 
 
 Boot.registerModule(markdownModule)

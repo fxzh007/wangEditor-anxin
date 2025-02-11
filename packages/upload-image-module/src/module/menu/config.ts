@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { IUploadImageConfig } from '@wangeditor-next/core'
+import { IUploadImageConfig } from '@wangeditor-ax/core'
 
 // 生成默认配置
 export function genUploadImageConfig(): IUploadImageConfig {

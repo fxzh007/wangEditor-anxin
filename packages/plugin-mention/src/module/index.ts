@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { IModuleConf } from '@wangeditor-next/editor'
+import { IModuleConf } from '@wangeditor-ax/editor'
 
 import elemToHtmlConf from './elem-to-html'
 import parseHtmlConf from './parse-elem-html'

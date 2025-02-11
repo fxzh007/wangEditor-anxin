@@ -13,7 +13,7 @@ import {
   SlateRange,
   SlateTransforms,
   t,
-} from '@wangeditor-next/editor'
+} from '@wangeditor-ax/editor'
 
 import { PENCIL_SVG } from '../../constants/icon-svg'
 import $, { Dom7Array, DOMElement } from '../../utils/dom'

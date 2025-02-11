@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { t } from '@wangeditor-next/core'
+import { t } from '@wangeditor-ax/core'
 
 import createEditor from '../../../../tests/utils/create-editor'
 import { CANCEL_FULL_SCREEN_SVG, FULL_SCREEN_SVG } from '../../src/constants/icon-svg'

@@ -1,5 +1,5 @@
 {
-  "name": "@wangeditor-next/editor",
+  "name": "@wangeditor-ax/editor",
   "version": "5.6.31",
   "description": "Web rich text editor, Web 富文本编辑器",
   "keywords": [
@@ -11,7 +11,7 @@
   ],
   "author": "cycleccc <29912005548@qq.com>",
   "type": "module",
-  "homepage": "https://github.com/wangeditor-next/wangeditor-next#readme",
+  "homepage": "https://github.com/fxzh007/wangEditor-anxin#readme",
   "license": "MIT",
   "types": "dist/editor/src/index.d.ts",
   "main": "dist/index.js",
@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangeditor-next/wangEditor-next.git"
+    "url": "git+https://github.com/fxzh007/wangEditor-anxin.git"
   },
   "scripts": {
     "test": "jest",
@@ -50,18 +50,18 @@
     "size-stats": "cross-env NODE_ENV=production:size_stats rollup -c rollup.config.js"
   },
   "bugs": {
-    "url": "https://github.com/wangeditor-next/wangeditor-next/issues"
+    "url": "https://github.com/fxzh007/wangEditor-anxin/issues"
   },
   "dependencies": {
     "@uppy/core": "^2.1.1",
     "@uppy/xhr-upload": "^2.0.3",
-    "@wangeditor-next/basic-modules": "~1.5.32",
-    "@wangeditor-next/code-highlight": "~1.3.29",
-    "@wangeditor-next/core": "~1.7.32",
-    "@wangeditor-next/list-module": "~1.1.38",
-    "@wangeditor-next/table-module": "~1.6.42",
-    "@wangeditor-next/upload-image-module": "~1.1.35",
-    "@wangeditor-next/video-module": "~1.3.38",
+    "@wangeditor-ax/basic-modules": "~1.5.32",
+    "@wangeditor-ax/code-highlight": "~1.3.29",
+    "@wangeditor-ax/core": "~1.7.32",
+    "@wangeditor-ax/list-module": "~1.1.38",
+    "@wangeditor-ax/table-module": "~1.6.42",
+    "@wangeditor-ax/upload-image-module": "~1.1.35",
+    "@wangeditor-ax/video-module": "~1.3.38",
     "dom7": "^4.0.0",
     "is-hotkey": "^0.2.0",
     "lodash.camelcase": "^4.3.0",

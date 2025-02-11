@@ -1,4 +1,4 @@
-# wangEditor-next 5
+# wangeditor-ax 5
 
 
 [![npm version][npm-version-src]][npm-version-href]
@@ -6,7 +6,7 @@
 [![bundle][bundle-src]][bundle-href]
 [![JSDocs][jsdocs-src]][jsdocs-href]
 [![License][license-src]][license-href]
-[![codecov](https://codecov.io/gh/wangeditor-next/wangeditor-next/graph/badge.svg?token=0ZSXFXJPK3)](https://codecov.io/gh/wangeditor-next/wangeditor-next)
+[![codecov](https://codecov.io/gh/wangeditor-ax/wangeditor-ax/graph/badge.svg?token=0ZSXFXJPK3)](https://codecov.io/gh/wangeditor-ax/wangeditor-ax)
 
 🌍 [English](./README-en.md) | 中文
 
@@ -16,8 +16,8 @@
 
 开源 Web 富文本编辑器，开箱即用，配置简单。支持 JS Vue React 。
 
-- [文档](https://wangeditor-next.github.io/docs/)
-- [Demo](https://wangeditor-next.github.io/demo/)
+- [文档](https://wangeditor-ax.github.io/docs/)
+- [Demo](https://wangeditor-ax.github.io/demo/)
 
 ![](./docs/images/editor.png)
 
@@ -32,18 +32,18 @@
 
 ### 对于 Vue 或 React
 ```shell
-npm install @wangeditor-next/editor --save
+npm install @wangeditor-ax/editor --save
 // vue3 需要额外下载
-npm install @wangeditor-next/editor-for-vue --save
+npm install @wangeditor-ax/editor-for-vue --save
 // vue2 需要额外下载
-npm install @wangeditor-next/editor-for-vue2 --save
+npm install @wangeditor-ax/editor-for-vue2 --save
 // react 需要额外下载
-npm install @wangeditor-next/editor-for-react --save
+npm install @wangeditor-ax/editor-for-react --save
 ```
 
 ### 对于 HTML 使用 CDN 资源
 ```html
-<script src="https://unpkg.com/@wangeditor-next/editor@latest/dist/index.js"></script>
+<script src="https://unpkg.com/@wangeditor-ax/editor@latest/dist/index.js"></script>
 ```
 
 ## 使用示例
@@ -58,11 +58,11 @@ npm install @wangeditor-next/editor-for-react --save
 
 ## 交流
 
-- [讨论问题和建议](https://github.com/wangeditor-next/wangEditor-next/issues)
+- [讨论问题和建议](https://github.com/fxzh007/wangEditor-anxin/issues)
 
 ## 贡献
 
-我们欢迎所有贡献！请阅读[贡献指南](https://github.com/wangeditor-next/wangEditor-next/blob/master/docs/contribution-CN.md)及 [docs](https://github.com/wangeditor-next/wangEditor-next/tree/master/docs) 文件夹内的开发指南。
+我们欢迎所有贡献！请阅读[贡献指南](https://github.com/fxzh007/wangEditor-anxin/blob/master/docs/contribution-CN.md)及 [docs](https://github.com/fxzh007/wangEditor-anxin/tree/master/docs) 文件夹内的开发指南。
 
 ## 🌟 支持与鼓励
 
@@ -74,8 +74,8 @@ npm install @wangeditor-next/editor-for-react --save
 
 ## 贡献者
 
-<a href="https://github.com/wangeditor-next/wangEditor-next/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=wangeditor-next/wangeditor-next" />
+<a href="https://github.com/fxzh007/wangEditor-anxin/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=wangeditor-ax/wangeditor-ax" />
 </a>
 
 ## License
@@ -84,13 +84,13 @@ npm install @wangeditor-next/editor-for-react --save
 
 <!-- Badges -->
 
-[npm-version-src]: https://img.shields.io/npm/v/@wangeditor-next/editor?style=flat&colorA=080f12&colorB=1fa669
-[npm-version-href]: https://npmjs.com/package/@wangeditor-next/editor
-[npm-downloads-src]: https://img.shields.io/npm/dm/@wangeditor-next/core?style=flat&colorA=080f12&colorB=1fa669
-[npm-downloads-href]: https://npmjs.com/package/@wangeditor-next/editor
-[bundle-src]: https://img.shields.io/bundlephobia/minzip/@wangeditor-next/editor?style=flat&colorA=080f12&colorB=1fa669&label=minzip
-[bundle-href]: https://bundlephobia.com/result?p=@wangeditor-next/editor
-[license-src]: https://img.shields.io/github/license/wangeditor-next/wangeditor-next.svg?style=flat&colorA=080f12&colorB=1fa669
-[license-href]: https://github.com/wangeditor-next/wangEditor-next/blob/master/LICENSE
+[npm-version-src]: https://img.shields.io/npm/v/@wangeditor-ax/editor?style=flat&colorA=080f12&colorB=1fa669
+[npm-version-href]: https://npmjs.com/package/@wangeditor-ax/editor
+[npm-downloads-src]: https://img.shields.io/npm/dm/@wangeditor-ax/core?style=flat&colorA=080f12&colorB=1fa669
+[npm-downloads-href]: https://npmjs.com/package/@wangeditor-ax/editor
+[bundle-src]: https://img.shields.io/bundlephobia/minzip/@wangeditor-ax/editor?style=flat&colorA=080f12&colorB=1fa669&label=minzip
+[bundle-href]: https://bundlephobia.com/result?p=@wangeditor-ax/editor
+[license-src]: https://img.shields.io/github/license/wangeditor-ax/wangeditor-ax.svg?style=flat&colorA=080f12&colorB=1fa669
+[license-href]: https://github.com/fxzh007/wangEditor-anxin/blob/master/LICENSE
 [jsdocs-src]: https://img.shields.io/badge/jsdocs-reference-080f12?style=flat&colorA=080f12&colorB=1fa669
-[jsdocs-href]: https://www.jsdocs.io/package/@wangeditor-next/editor
+[jsdocs-href]: https://www.jsdocs.io/package/@wangeditor-ax/editor

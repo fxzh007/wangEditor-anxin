@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { IDomEditor, t } from '@wangeditor-next/core'
+import { IDomEditor, t } from '@wangeditor-ax/core'
 import {
   Element, Text, Transforms,
 } from 'slate'

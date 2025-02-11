@@ -10,7 +10,7 @@ import {
   IDomEditor,
   IModalMenu,
   t,
-} from '@wangeditor-next/core'
+} from '@wangeditor-ax/core'
 import { Node, Range } from 'slate'
 
 import { PENCIL_SVG } from '../../../constants/icon-svg'

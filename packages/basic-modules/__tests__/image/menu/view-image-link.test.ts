@@ -57,7 +57,7 @@ describe('view image link menu', () => {
   it('exec', () => {
     editor.select(startLocation)
     const value = ''
-    const url = 'https://github.com/wangeditor-next/wangEditor-next'
+    const url = 'https://github.com/fxzh007/wangEditor-anxin'
 
     expect(menu.exec(editor, value)).toBeUndefined()
     const elem = {

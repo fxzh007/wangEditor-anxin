@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { DomEditor, IDomEditor, SlateElement } from '@wangeditor-next/editor'
+import { DomEditor, IDomEditor, SlateElement } from '@wangeditor-ax/editor'
 import { h, VNode } from 'snabbdom'
 
 import { FormulaElement } from './custom-types'

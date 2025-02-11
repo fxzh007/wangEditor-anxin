@@ -4,14 +4,14 @@
 
 ## 介绍
 
-[wangEditor-next](https://wangeditor-next.github.io/docs/) 链接卡片 插件。
+[wangeditor-ax](https://wangeditor-ax.github.io/docs/) 链接卡片 插件。
 
 ![链接卡片演示 (Link Card Demo)](./_img/demo.png)
 
 ## 安装
 
 ```shell
-yarn add @wangeditor-next/plugin-link-card
+yarn add @wangeditor-ax/plugin-link-card
 ```
 
 ## 使用
@@ -19,8 +19,8 @@ yarn add @wangeditor-next/plugin-link-card
 ### 注册到编辑器
 
 ```js
-import { Boot } from '@wangeditor-next/editor'
-import linkCardModule from '@wangeditor-next/plugin-link-card'
+import { Boot } from '@wangeditor-ax/editor'
+import linkCardModule from '@wangeditor-ax/plugin-link-card'
 
 // 注册。要在创建编辑器之前注册，且只能注册一次，不可重复注册。
 Boot.registerModule(linkCardModule)
@@ -31,7 +31,7 @@ Boot.registerModule(linkCardModule)
 编辑器配置
 
 ```ts
-import { IEditorConfig } from '@wangeditor-next/editor'
+import { IEditorConfig } from '@wangeditor-ax/editor'
 
 const editorConfig: Partial<IEditorConfig> = {
   hoverbarKeys: {

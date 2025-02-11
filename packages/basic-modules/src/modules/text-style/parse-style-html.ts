@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { IDomEditor } from '@wangeditor-next/core'
+import { IDomEditor } from '@wangeditor-ax/core'
 import { Descendant, Text } from 'slate'
 
 import $, { Dom7Array, DOMElement } from '../../utils/dom'

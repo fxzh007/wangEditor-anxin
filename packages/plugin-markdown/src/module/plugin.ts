@@ -10,7 +10,7 @@ import {
   SlateElement,
   SlateRange,
   SlateTransforms,
-} from '@wangeditor-next/editor'
+} from '@wangeditor-ax/editor'
 
 // 空格对应的 md 关键字
 const KEY_TO_TYPE_FOR_SPACE: { [key: string]: string } = {

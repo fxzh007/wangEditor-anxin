@@ -4,7 +4,7 @@
 
 ## 介绍
 
-[wangEditor-next](https://wangeditor-next.github.io/docs/) 公式插件，使用 [LateX](https://baike.baidu.com/item/LaTeX/1212106) 语法。
+[wangeditor-ax](https://wangeditor-ax.github.io/docs/) 公式插件，使用 [LateX](https://baike.baidu.com/item/LaTeX/1212106) 语法。
 
 ![](./_img/demo.png)
 
@@ -12,7 +12,7 @@
 
 ```shell
 yarn add katex
-yarn add @wangeditor-next/plugin-formula
+yarn add @wangeditor-ax/plugin-formula
 ```
 
 ## 使用
@@ -20,8 +20,8 @@ yarn add @wangeditor-next/plugin-formula
 ### 注册到编辑器
 
 ```js
-import { Boot, IEditorConfig, IToolbarConfig } from '@wangeditor-next/editor'
-import formulaModule from '@wangeditor-next/plugin-formula'
+import { Boot, IEditorConfig, IToolbarConfig } from '@wangeditor-ax/editor'
+import formulaModule from '@wangeditor-ax/plugin-formula'
 
 // 注册。要在创建编辑器之前注册，且只能注册一次，不可重复注册。
 Boot.registerModule(formulaModule)

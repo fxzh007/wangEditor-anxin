@@ -16,7 +16,7 @@ about: Please fill out this template to help us reproduce the issue faster. Othe
 - Operating System
 - Browser and Version
 
-## wangEditor-next Version
+## wangeditor-ax Version
 
 *Please enter the details...*
 
@@ -24,7 +24,7 @@ about: Please fill out this template to help us reproduce the issue faster. Othe
 
 Yes/No
 
-- Demo: https://wangeditor-next.github.io/demo/
+- Demo: https://wangeditor-ax.github.io/demo/
 
 ## Online Demo
 

@@ -3,7 +3,7 @@
  * @author cycleccc
  */
 
-import { IDomEditor, SlateDescendant } from '@wangeditor-next/editor'
+import { IDomEditor, SlateDescendant } from '@wangeditor-ax/editor'
 
 import $, { DOMElement, getStyleValue } from '../utils/dom'
 import { ImageElement } from './custom-types'

@@ -2,7 +2,7 @@
  * @description common module
  * @author wangfupeng
  */
-import { IModuleConf } from '@wangeditor-next/core'
+import { IModuleConf } from '@wangeditor-ax/core'
 
 import { enterMenuConf } from './menu/index'
 

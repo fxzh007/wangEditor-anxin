@@ -5,7 +5,7 @@
 
 import {
   DomEditor, IButtonMenu, IDomEditor, SlateNode, SlateTransforms,
-} from '@wangeditor-next/editor'
+} from '@wangeditor-ax/editor'
 
 import { ImageElement } from '../custom-types'
 

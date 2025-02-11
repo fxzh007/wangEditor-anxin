@@ -3,10 +3,10 @@
  * @author wangfupeng
  */
 
-import { insertImageNode, isInsertImageMenuDisabled } from '@wangeditor-next/basic-modules'
+import { insertImageNode, isInsertImageMenuDisabled } from '@wangeditor-ax/basic-modules'
 import {
   IButtonMenu, IDomEditor, t,
-} from '@wangeditor-next/core'
+} from '@wangeditor-ax/core'
 
 import { UPLOAD_IMAGE_SVG } from '../../constants/svg'
 import $ from '../../utils/dom'

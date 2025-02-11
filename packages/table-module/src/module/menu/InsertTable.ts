@@ -5,7 +5,7 @@
 
 import {
   DomEditor, IDomEditor, IDropPanelMenu, t,
-} from '@wangeditor-next/core'
+} from '@wangeditor-ax/core'
 import {
   Range, Transforms,
 } from 'slate'

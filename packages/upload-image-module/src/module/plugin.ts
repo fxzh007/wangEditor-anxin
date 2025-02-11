@@ -3,8 +3,8 @@
  * @author wangfupeng
  */
 
-import { isInsertImageMenuDisabled } from '@wangeditor-next/basic-modules'
-import { IDomEditor } from '@wangeditor-next/core'
+import { isInsertImageMenuDisabled } from '@wangeditor-ax/basic-modules'
+import { IDomEditor } from '@wangeditor-ax/core'
 
 import uploadImages from './upload-images'
 

@@ -1,4 +1,4 @@
-# [wangEditor-next](https://wangeditor-next.github.io/docs/) 图片浮动 插件
+# [wangeditor-ax](https://wangeditor-ax.github.io/docs/) 图片浮动 插件
 
 [English Documentation](./README-en.md)
 
@@ -13,7 +13,7 @@
 
 ## 介绍
 
-[wangEditor-next](https://wangeditor-next.github.io/docs/) 图片浮动 插件。
+[wangeditor-ax](https://wangeditor-ax.github.io/docs/) 图片浮动 插件。
 
 ![](./_img/demo-1.png)
 ![](./_img/demo-2.png)
@@ -21,12 +21,12 @@
 ## 安装
 
 ```shell
-yarn add @wangeditor-next/plugin-float-image
+yarn add @wangeditor-ax/plugin-float-image
 ```
 或者
 
 ```shell
-npm i @wangeditor-next/plugin-float-image
+npm i @wangeditor-ax/plugin-float-image
 ```
 
 ## 使用
@@ -34,7 +34,7 @@ npm i @wangeditor-next/plugin-float-image
 ### 注册到编辑器
 
 ```js
-import { Boot } from '@wangeditor-next/editor'
+import { Boot } from '@wangeditor-ax/editor'
 import floatImageModule from 'wangeditor-plugin-float-image'
 
 // 注册。要在创建编辑器之前注册，且只能注册一次，不可重复注册。
@@ -46,7 +46,7 @@ Boot.registerModule(floatImageModule)
 编辑器配置
 
 ```ts
-import { IEditorConfig } from '@wangeditor-next/editor'
+import { IEditorConfig } from '@wangeditor-ax/editor'
 
 const editorConfig: Partial<IEditorConfig> = {
   hoverbarKeys: {

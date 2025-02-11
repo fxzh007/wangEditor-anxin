@@ -1,4 +1,4 @@
-import { CursorState } from '@wangeditor-next/yjs'
+import { CursorState } from '@wangeditor-ax/yjs'
 import { useSyncExternalStore } from 'use-sync-external-store/shim'
 import { useSyncExternalStoreWithSelector } from 'use-sync-external-store/shim/with-selector'
 

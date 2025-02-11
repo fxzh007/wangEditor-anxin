@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { DomEditor } from '@wangeditor-next/core'
+import { DomEditor } from '@wangeditor-ax/core'
 import { Editor, Transforms } from 'slate'
 
 import createEditor from '../../../../tests/utils/create-editor'
@@ -17,9 +17,9 @@ describe('image helper', () => {
   let editor: any
   let startLocation: any
 
-  const baseSrc = 'https://github.com/wangeditor-next/wangEditor-next'
+  const baseSrc = 'https://github.com/fxzh007/wangEditor-anxin'
   const emptySrc = ''
-  const inValidSrc = 'wangeditor-next.github.io/docs/'
+  const inValidSrc = 'wangeditor-ax.github.io/docs/'
   const baseAlt = 'logo'
   const href = 'https://www.wangeditor.com/'
 

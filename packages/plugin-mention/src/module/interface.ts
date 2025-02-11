@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { IDomEditor } from '@wangeditor-next/editor'
+import { IDomEditor } from '@wangeditor-ax/editor'
 
 export interface IExtendConfig {
   mentionConfig: {

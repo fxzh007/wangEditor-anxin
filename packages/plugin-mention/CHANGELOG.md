@@ -1,4 +1,4 @@
-# @wangeditor-next/plugin-mention
+# @wangeditor-ax/plugin-mention
 
 ## 1.0.1
 

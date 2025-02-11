@@ -5,7 +5,7 @@
 
 import {
   DomEditor, IDomEditor, SlateElement, SlateTransforms,
-} from '@wangeditor-next/editor'
+} from '@wangeditor-ax/editor'
 import throttle from 'lodash.throttle'
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { jsx, VNode } from 'snabbdom'

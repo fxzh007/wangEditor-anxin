@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { DomEditor } from '@wangeditor-next/core'
+import { DomEditor } from '@wangeditor-ax/core'
 import {
   Node, NodeEntry, Range, Text,
 } from 'slate'

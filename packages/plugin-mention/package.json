@@ -1,10 +1,10 @@
 {
-  "name": "@wangeditor-next/plugin-mention",
+  "name": "@wangeditor-ax/plugin-mention",
   "version": "1.0.1",
   "description": "wangEditor mention plugin",
   "author": "cycleccc <2991205548@qq.com>",
   "type": "module",
-  "homepage": "https://github.com/wangeditor-next/wangEditor-next#readme",
+  "homepage": "https://github.com/fxzh007/wangEditor-anxin#readme",
   "license": "MIT",
   "types": "dist/plugin-mention/src/index.d.ts",
   "main": "dist/index.js",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangeditor-next/wangEditor-next.git"
+    "url": "git+https://github.com/fxzh007/wangEditor-anxin.git"
   },
   "scripts": {
     "dev": "cross-env NODE_ENV=development rollup -c rollup.config.js",
@@ -38,10 +38,10 @@
     "size-stats": "cross-env NODE_ENV=production:size_stats rollup -c rollup.config.js"
   },
   "bugs": {
-    "url": "https://github.com/wangeditor-next/wangeditor-next/issues"
+    "url": "https://github.com/fxzh007/wangEditor-anxin/issues"
   },
   "peerDependencies": {
-    "@wangeditor-next/editor": "5.6.31",
+    "@wangeditor-ax/editor": "5.6.31",
     "snabbdom": "^3.1.0"
   }
 }

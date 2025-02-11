@@ -1,7 +1,7 @@
 import {
   CursorOverlayData,
   useRemoteCursorOverlayPositions,
-} from '@wangeditor-next/yjs-for-react'
+} from '@wangeditor-ax/yjs-for-react'
 import clsx from 'clsx'
 import React, { CSSProperties, PropsWithChildren, useRef } from 'react'
 

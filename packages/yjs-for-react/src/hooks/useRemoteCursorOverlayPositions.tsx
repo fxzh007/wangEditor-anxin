@@ -1,4 +1,4 @@
-import { CursorState } from '@wangeditor-next/yjs'
+import { CursorState } from '@wangeditor-ax/yjs'
 import {
   RefObject, useCallback, useLayoutEffect, useMemo, useRef, useState,
 } from 'react'

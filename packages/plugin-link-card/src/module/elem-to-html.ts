@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { SlateElement } from '@wangeditor-next/editor'
+import { SlateElement } from '@wangeditor-ax/editor'
 
 import { LinkCardElement } from './custom-types'
 

@@ -5,7 +5,7 @@
 
 import './local' // 多语言
 
-import { IModuleConf } from '@wangeditor-next/editor'
+import { IModuleConf } from '@wangeditor-ax/editor'
 
 import elemToHtmlConf from './elem-to-html'
 import { imageFloatLeftMenuConf, imageFloatNoneMenuConf, imageFloatRightMenuConf } from './menu'

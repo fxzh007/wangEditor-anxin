@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { DomEditor, IDomEditor } from '@wangeditor-next/core'
+import { DomEditor, IDomEditor } from '@wangeditor-ax/core'
 import { Element } from 'slate'
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { h, jsx, VNode } from 'snabbdom'

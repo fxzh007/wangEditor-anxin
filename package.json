@@ -1,6 +1,6 @@
 {
-  "name": "@wangeditor-next/wangeditor",
-  "private": true,
+  "name": "@wangeditor-ax/wangeditor",
+  "private": false,
   "packageManager": "yarn@4.5.3",
   "browserslist": [
     "defaults",
@@ -26,7 +26,7 @@
     "e2e": "concurrently \"yarn example\" \"yarn run cypress:run\"",
     "prepare": "husky install",
     "changeset": "changeset",
-    "example": "turbo run example --filter=@wangeditor-next/editor"
+    "example": "turbo run example --filter=@wangeditor-ax/editor"
   },
   "workspaces": [
     "shared/*",

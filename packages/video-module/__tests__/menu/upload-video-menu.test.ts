@@ -3,7 +3,7 @@
  * @author luochao
  */
 
-import * as core from '@wangeditor-next/core'
+import * as core from '@wangeditor-ax/core'
 import * as slate from 'slate'
 
 import createEditor from '../../../../tests/utils/create-editor'

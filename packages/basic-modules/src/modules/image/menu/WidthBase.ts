@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { DomEditor, IButtonMenu, IDomEditor } from '@wangeditor-next/core'
+import { DomEditor, IButtonMenu, IDomEditor } from '@wangeditor-ax/core'
 import { Node, Transforms } from 'slate'
 
 import { ImageElement } from '../custom-types'

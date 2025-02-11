@@ -3,7 +3,7 @@
  * @author cycleccc
  */
 
-import { t } from '@wangeditor-next/editor'
+import { t } from '@wangeditor-ax/editor'
 
 import { LEFT_FLOAT_SVG } from '../../constants/icon-svg'
 import ImageFloatBaseClass from './FloatBase'

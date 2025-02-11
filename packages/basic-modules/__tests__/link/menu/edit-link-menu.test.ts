@@ -16,7 +16,7 @@ describe('edit link menu', () => {
 
   const linkNode = {
     type: 'link',
-    url: 'https://wangeditor-next.github.io/docs/',
+    url: 'https://wangeditor-ax.github.io/docs/',
     children: [{ text: 'xxx' }],
   }
 
@@ -84,7 +84,7 @@ describe('edit link menu', () => {
     const urlInputId = document.getElementById((menu as any).urlInputId) as HTMLInputElement
     const button = document.getElementById((menu as any).buttonId) as HTMLButtonElement
 
-    urlInputId.value = 'https://wangeditor-next.github.io/demo/'
+    urlInputId.value = 'https://wangeditor-ax.github.io/demo/'
     editor.select(startLocation)
     button.click()
 

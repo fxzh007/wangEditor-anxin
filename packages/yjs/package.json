@@ -1,10 +1,10 @@
 {
-  "name": "@wangeditor-next/yjs",
+  "name": "@wangeditor-ax/yjs",
   "version": "0.1.30",
   "author": "cycleccc <2991205548@qq.com>",
   "type": "module",
-  "description": "Yjs binding for wangeditor-next.",
-  "homepage": "https://github.com/wangeditor-next/wangeditor-next#readme",
+  "description": "Yjs binding for wangeditor-ax.",
+  "homepage": "https://github.com/fxzh007/wangEditor-anxin#readme",
   "keywords": [
     "slate",
     "wangEditor",
@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangeditor-next/wangEditor-next.git"
+    "url": "git+https://github.com/fxzh007/wangEditor-anxin.git"
   },
   "scripts": {
     "test": "jest",
@@ -48,12 +48,12 @@
     "size-stats": "cross-env NODE_ENV=production:size_stats rollup -c rollup.config.js"
   },
   "peerDependencies": {
-    "@wangeditor-next/core": "1.7.32",
+    "@wangeditor-ax/core": "1.7.32",
     "slate": "^0.72.0",
     "yjs": "^13.5.29"
   },
   "bugs": {
-    "url": "https://github.com/wangeditor-next/wangeditor-next/issues"
+    "url": "https://github.com/fxzh007/wangEditor-anxin/issues"
   },
   "dependencies": {
     "y-protocols": "^1.0.5"

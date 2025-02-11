@@ -9,7 +9,7 @@ import {
   SlateNode,
   SlateTransforms,
   t,
-} from '@wangeditor-next/editor'
+} from '@wangeditor-ax/editor'
 
 import { LinkCardElement, LinkElement } from '../custom-types'
 

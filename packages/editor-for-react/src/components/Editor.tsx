@@ -5,7 +5,7 @@
 
 import {
   createEditor, IDomEditor, IEditorConfig, SlateDescendant,
-} from '@wangeditor-next/editor'
+} from '@wangeditor-ax/editor'
 import React, { useEffect, useRef, useState } from 'react'
 
 interface IProps {

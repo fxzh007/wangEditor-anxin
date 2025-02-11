@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { IModuleConf } from '@wangeditor-next/core'
+import { IModuleConf } from '@wangeditor-ax/core'
 
 import { codeToHtmlConf, preToHtmlConf } from './elem-to-html'
 import { codeBlockMenuConf } from './menu/index'

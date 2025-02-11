@@ -3,7 +3,7 @@
  * @author cycleccc
  */
 
-import { DomEditor, IDomEditor } from '@wangeditor-next/editor'
+import { DomEditor, IDomEditor } from '@wangeditor-ax/editor'
 
 function withImage<T extends IDomEditor>(editor: T): T {
   const { isInline, isVoid } = editor

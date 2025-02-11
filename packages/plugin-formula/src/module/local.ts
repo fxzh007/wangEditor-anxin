@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { i18nAddResources } from '@wangeditor-next/editor'
+import { i18nAddResources } from '@wangeditor-ax/editor'
 
 i18nAddResources('en', {
   formula: {

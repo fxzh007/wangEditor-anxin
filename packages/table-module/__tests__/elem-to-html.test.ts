@@ -3,7 +3,7 @@
  * @author luochao
  */
 
-import * as core from '@wangeditor-next/core'
+import * as core from '@wangeditor-ax/core'
 import { Ancestor } from 'slate'
 
 import {

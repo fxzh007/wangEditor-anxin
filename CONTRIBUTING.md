@@ -1,8 +1,8 @@
-# wangEditor-next 贡献指南
+# wangeditor-ax 贡献指南
 
 ## 欢迎贡献
 
-首先，感谢您对`wangEditor-next`项目的兴趣，以及您愿意投入时间来贡献代码、文档、功能请求或任何其他形式的帮助。这份贡献指南将帮助您了解如何参与项目。
+首先，感谢您对`wangeditor-ax`项目的兴趣，以及您愿意投入时间来贡献代码、文档、功能请求或任何其他形式的帮助。这份贡献指南将帮助您了解如何参与项目。
 
 ### 1. 行为准则
 
@@ -10,7 +10,7 @@
 
 ### 2. 报告问题
 
-如果您发现bug或有新功能的想法，请在[问题跟踪器](https://github.com/wangeditor-next/wangEditor-next/issues)中创建一个新的问题。在提交之前，请检查是否已经存在类似的问题。
+如果您发现bug或有新功能的想法，请在[问题跟踪器](https://github.com/fxzh007/wangEditor-anxin/issues)中创建一个新的问题。在提交之前，请检查是否已经存在类似的问题。
 
 ### 3. 提交 Pull Request
 
@@ -43,7 +43,7 @@
 
    dragging img elements from the page into the editor converts them to links
 
-   https://github.com/wangeditor-next/wangEditor-next/issues/52
+   https://github.com/fxzh007/wangEditor-anxin/issues/52
    ```
 - **Pull Request**：将您的分支推送到远程仓库，并在GitHub上发起Pull Request。
 
@@ -87,4 +87,4 @@
 
 ## 感谢
 
-我们非常感激您的贡献，无论是大是小。您的努力帮助我们构建了一个更好的`wangEditor-next`。
+我们非常感激您的贡献，无论是大是小。您的努力帮助我们构建了一个更好的`wangeditor-ax`。

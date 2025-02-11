@@ -4,14 +4,14 @@
 
 ## Introduction
 
-[wangEditor-next](https://wangeditor-next.github.io/docs/) link-card plugin.
+[wangeditor-ax](https://wangeditor-ax.github.io/docs/) link-card plugin.
 
 ![Link Card Demo](./_img/demo.png)
 
 ## Installation
 
 ```shell
-yarn add @wangeditor-next/plugin-link-card
+yarn add @wangeditor-ax/plugin-link-card
 ```
 
 ## Usage
@@ -19,8 +19,8 @@ yarn add @wangeditor-next/plugin-link-card
 ### Register to editor
 
 ```js
-import { Boot } from '@wangeditor-next/editor'
-import linkCardModule from '@wangeditor-next/plugin-link-card'
+import { Boot } from '@wangeditor-ax/editor'
+import linkCardModule from '@wangeditor-ax/plugin-link-card'
 
 // Register
 // You should register this before create editor, and register only once (not repeatedly).
@@ -32,7 +32,7 @@ Boot.registerModule(linkCardModule)
 Editor config
 
 ```ts
-import { IEditorConfig } from '@wangeditor-next/editor'
+import { IEditorConfig } from '@wangeditor-ax/editor'
 
 const editorConfig: Partial<IEditorConfig> = {
   hoverbarKeys: {

@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { IModuleConf } from '@wangeditor-next/core'
+import { IModuleConf } from '@wangeditor-ax/core'
 
 import { codeToHtmlConf } from './elem-to-html'
 import { selectLangMenuConf } from './menu/index'

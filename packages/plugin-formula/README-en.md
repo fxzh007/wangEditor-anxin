@@ -4,7 +4,7 @@
 
 ## Introduction
 
-[wangEditor-next](https://wangeditor-next.github.io/docs/en/) Formula plugin, use `LateX` syntax.
+[wangeditor-ax](https://wangeditor-ax.github.io/docs/en/) Formula plugin, use `LateX` syntax.
 
 ![](./_img/demo.png)
 
@@ -12,7 +12,7 @@
 
 ```shell
 yarn add katex
-yarn add @wangeditor-next/plugin-formula
+yarn add @wangeditor-ax/plugin-formula
 ```
 
 ## Usage
@@ -21,8 +21,8 @@ yarn add @wangeditor-next/plugin-formula
 
 
 ```js
-import { Boot, IEditorConfig, IToolbarConfig } from '@wangeditor-next/editor'
-import formulaModule from '@wangeditor-next/plugin-formula'
+import { Boot, IEditorConfig, IToolbarConfig } from '@wangeditor-ax/editor'
+import formulaModule from '@wangeditor-ax/plugin-formula'
 
 // Register
 // You should register this before create editor, and register only once (not repeatedly).

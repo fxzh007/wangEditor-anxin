@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { DomEditor, IDomEditor, SlateTransforms } from '@wangeditor-next/editor'
+import { DomEditor, IDomEditor, SlateTransforms } from '@wangeditor-ax/editor'
 
 function withLinkCard<T extends IDomEditor>(editor: T) {
   const { isVoid, normalizeNode } = editor
